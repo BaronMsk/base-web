@@ -37,6 +37,7 @@ RUN set -ex && \
         php7.2-json \
         php7.2-mbstring \
         php7.2-memcache \
+        php7.2-memcached \
         php7.2-mysql \
         php7.2-opcache \
         php7.2-readline \
